@@ -1,0 +1,4 @@
+touch : permet de creer un fichier.
+cd : permet de se placer dans le repertoire ou dossier de son choix.
+mkir : permet de creer un dossier.
+ls : permet de voir la liste des fichiers et repertoires dans le dossier courant.
