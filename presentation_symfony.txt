@@ -1,2 +1,2 @@
 Symfony est un framework PHP Open Source tres populaire a l'heure actuelle. Symfony permet de realiser des sites complexes rapidement avec un code clair et maintenant. Bref, le paradis de chaque developpeur.
-Pour pouvoir utiliser Symfony, il est necessaire de maitriser le HTML, le CSS et bien evidemment, le PHP.
+Pour pouvoir utiliser Symfony, il est necessaire de maitriser le HTML, le CSS et bien evidemment, le PHP. Il faut aussi connaitre les notions de base de la programmation orientee objet et si possible, avoir des notions de namepsace. Il est aussi vivement conseille de maitriser un logiciel de versioning comme Git.
